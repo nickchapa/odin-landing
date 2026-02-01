@@ -5,3 +5,15 @@ img.logo {
 img.header-img {
     width: 300px;
 }
+
+.cards {
+    display: flex;
+    gap: 10px;
+}
+
+.card img {
+    width: 100px;
+    height: 100px;
+    border: solid 2px black;
+    border-radius: 5px;
+}
