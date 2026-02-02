@@ -36,6 +36,7 @@ ul {
 .title-banner {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .hero-text {
@@ -72,7 +73,8 @@ img.logo {
 }
 
 img.header-img {
-    width: 300px;
+    max-width: 300px;
+    height: auto;
 }
 
 .cards {
