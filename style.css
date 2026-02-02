@@ -41,6 +41,9 @@ ul {
 .hero-text {
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 16px;
 }
 
 .section-2 {
